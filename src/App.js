@@ -1,6 +1,6 @@
 
 import './App.css';
-import { Member } from "./components/member/member.js";
+
 import AboutUs from './components/aboutus/AboutUs.js';
 import "./App.css";
 import Header from "./components/header/header.js";

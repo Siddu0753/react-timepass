@@ -1,0 +1,22 @@
+.memberCard{
+    padding:10px;
+    background-color: orange;
+    color:white;
+    display: flex;
+    width:200px;
+    justify-content: center;
+    
+   
+}
+.member-sub{
+    color:black;
+    font-weight: bold;
+
+}
+.memberCard:hover{
+    transform: scale(1.1);
+    animation: pop ;
+    background-color: rgb(255, 47, 47);
+    box-shadow: 0px 0px 10px black;
+    
+}
